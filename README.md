@@ -15,4 +15,4 @@ Many of the other repositories here are take-home exercises and smaller experime
 
 **Contact**
 
-[Portfolio](https://m-nadeem.vercel.app) · [LinkedIn](https://www.linkedin.com/in/muhammad-nadeem-1453ba40a/) · mn.nadeem027@gmail.com
+[Portfolio](https://m-nadeem-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/muhammad-nadeem-1453ba40a/) · mn.nadeem027@gmail.com
