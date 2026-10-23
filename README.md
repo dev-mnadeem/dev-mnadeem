@@ -11,8 +11,18 @@ Full stack engineer based in Tallinn, Estonia. I work mostly in TypeScript (Node
 - [enterprise-planning-api](https://github.com/dev-mnadeem/enterprise-planning-api): backend for a cargo and logistics platform with role-based permissions.
 - [kanban-task-board-suite](https://github.com/dev-mnadeem/kanban-task-board-suite): React, Django GraphQL and DynamoDB in one small kanban app.
 
+- [kota-ai-assessment](https://github.com/dev-mnadeem/kota-ai-assessment): an ONS earnings-data pipeline with source provenance, atomic refresh, and a verified n8n orchestration workflow.
+- [storefront-admin-fastapi](https://github.com/dev-mnadeem/storefront-admin-fastapi): inventory and sales API with transactional stock reservation and an audit trail.
+
+The project READMEs distinguish local fixtures from hosted integrations and show
+the setup, validation evidence, and limitations for each example.
+
 Many of the other repositories here are take-home exercises and smaller experiments, kept public as a record of how I work.
 
 **Contact**
 
 [Portfolio](https://m-nadeem-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/muhammad-nadeem-1453ba40a/) · mn.nadeem027@gmail.com
+
+## Author
+
+[**Muhammad Nadeem**](https://github.com/dev-mnadeem)
