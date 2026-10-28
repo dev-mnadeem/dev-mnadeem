@@ -16,7 +16,3 @@ The project READMEs include architecture notes, screenshots or API examples, and
 **Contact**
 
 [Portfolio](https://m-nadeem-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/muhammad-nadeem-1453ba40a/) · mn.nadeem027@gmail.com
-
-## Author
-
-[**Muhammad Nadeem**](https://github.com/dev-mnadeem)
